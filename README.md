@@ -1,3 +1,3 @@
 # NextJS Acedemind Course
 
-Each branch contains details about the concepts learnt.
+Each section contains the concepts learnt in that particular section.
